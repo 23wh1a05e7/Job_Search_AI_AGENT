@@ -1,0 +1,37 @@
+RAHUL VERMA
+Software Engineer
+Email: rahul.verma.example@email.com | Location: Hyderabad, India
+
+SUMMARY
+Software engineer with 2 years of experience building backend services in
+Python. Comfortable with REST API design, relational databases, and cloud
+deployment. Recently started exploring LLM-based applications and vector
+search. Looking for backend or AI-application engineering roles.
+
+SKILLS
+Python, Django, Flask, PostgreSQL, MySQL, Docker, Git, REST APIs, AWS (EC2, S3),
+Basic knowledge of LangChain and vector databases, SQL, Linux
+
+EXPERIENCE
+
+Backend Developer — Trident Softech (2023 - Present)
+- Built and maintained REST APIs in Django serving ~50k requests/day
+- Migrated a legacy MySQL schema to PostgreSQL, improving query performance by 30%
+- Containerized services using Docker and deployed to AWS EC2
+- Collaborated with frontend team to design API contracts
+
+Junior Developer — CodeBridge Solutions (2022 - 2023)
+- Developed internal tools using Python and Flask
+- Wrote unit tests and participated in code reviews
+- Fixed bugs in a customer-facing billing dashboard
+
+EDUCATION
+B.Tech in Computer Science, JNTU Hyderabad (2018 - 2022)
+
+PROJECTS
+- Built a small RAG-based FAQ chatbot for a college project using ChromaDB
+  and sentence-transformers embeddings
+- Personal project: a Flask API wrapping OpenAI's API for text summarization
+
+CERTIFICATIONS
+- AWS Certified Cloud Practitioner
